@@ -2,10 +2,10 @@ import random
 import time
 import streamlit as st
 
-st.set_page_config(page_title="Qudra | Sovereign PQC & AI Guardian", layout="wide")
+st.set_page_config(page_title="الدرع السعودي | Saudi Shield PQC", layout="wide")
 
 # تصميم بصري أنيق ومرتب للواجهة
-st.title("🛡️ قُدْرَة | Qudra: Sovereign PQC & AI Guardian")
+st.title("🛡️ الدرع السعودي | Saudi Shield PQC & AI Guardian")
 st.markdown("🔒 **البنية التحتية الرقمية السيادية في عصر ما بعد الكوانتم (Post-Quantum Cryptography)**")
 st.markdown("---")
 
@@ -43,4 +43,4 @@ with col_btn2:
         st.info("🛡️ تم تحويل النظام تلقائياً إلى طبقة الحماية السيادية البديلة بنجاح تام.")
 
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: gray;'>مشروع قُدْرَة - مصمم خصيصاً للمنصات السيادية والجهات الحيوية في المملكة 🇸🇦</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: gray;'>مشروع الدرع السعودي - مصمم خصيصاً للمنصات السيادية والجهات الحيوية في المملكة 🇸🇦</p>", unsafe_allow_html=True)
